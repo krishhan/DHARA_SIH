@@ -12,7 +12,7 @@ export default function CardHoverEffectDemo() {
       link: "",
     },
     {
-      title: "Ansh Singhal (Full Stack Developer)",
+      title: "Krishan Roy (Full Stack Developer)",
       description:
         "The backbone of our technical infrastructure, our full-stack developer seamlessly bridges the gap between front-end aesthetics and back-end functionality. Their expertise ensures that every part of our system runs like clockwork, providing a smooth and efficient user experience.",
       link: "",
@@ -36,7 +36,7 @@ export default function CardHoverEffectDemo() {
       link: "",
     },
     {
-      title: "Protyoya (Frontend Developer)",
+      title: "Ansh Singhal (Frontend Developer)",
       description:
         "With a keen eye for detail, our frontend developer crafts visually stunning and highly responsive interfaces. They are the creative genius who turns design into dynamic, user-friendly experiences, making sure our applications are as beautiful as they are functional.",
       link: "",
